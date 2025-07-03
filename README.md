@@ -9,7 +9,7 @@ Methods from artificial intelligence (AI) and, in particular, machine learning a
 The experiments of the German Covid-19 forecasting belong to the DAKI-FWS (01MK21009A) project supported by the Federal Ministry for Economic Affairs and Climate Action (BMWK), Germany; therefore, the code and data of this part are not available to the public.
 
 ## Code description
-The file "Simulation_global_local.ipynb" is the program of the simulation experiments of global- and local modeling for XGBoost, including simulated data generation, data resampling according to specific distribution density, global- and local modeling of XGBoost, and other experiments on data distributions, sample sizes, value ranges, and data transformation.
+The file "Simulation_global_local.ipynb" is the program of the simulation experiments of global- and local modeling for XGBoost, including simulated data generation, data resampling according to specific distribution density, global- and local modeling for XGBoost, and other experiments on data distributions, sample sizes, value ranges, and data transformation.
 
 
 
